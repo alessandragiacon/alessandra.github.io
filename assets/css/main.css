@@ -1,0 +1,41 @@
+body{
+    font-family: "Arial";
+    font-size: 12px;
+}
+
+#Personal{
+    height: 80px;
+    background-color: darkslategrey;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#menu{
+    margin: 1.5% 0;
+    z-index: 0;
+}
+
+#menu a{
+        text-decoration: none;
+        color: #ffffff;
+}
+
+#personalPhoto{
+    margin: 0.5% 0 0 0.5%;
+    float: left;
+    width: 120px;
+    -webkit-clip-path: circle(50% at 50% 50%);
+        -moz-clip-path: circle(50% at 50% 50%);
+          -ms-clip-path: circle(50% at 50% 50%);
+                  clip-path: circle(50% at 50% 50%);
+    z-index: 1;
+}
+
+.Profile{
+    
+}
+
+#Footer{
+    align-content: center;
+}
