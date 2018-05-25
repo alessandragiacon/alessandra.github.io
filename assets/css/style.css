@@ -17,14 +17,16 @@ header{
 }
 
 #menu a{
-        vertical-align: 15px;
-        color: #ffffff;
-        text-decoration: none;
+    vertical-align: 15px;
+    color: #ffffff;
+    text-decoration: none;
 }
 
 #Profile{
     width: 90%;
     align-content: center;
+    text-align: center;
+    font-size: 20px;
 }
 
 footer{
